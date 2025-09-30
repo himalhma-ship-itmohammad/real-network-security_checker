@@ -21,4 +21,4 @@ A **REAL** security breach detection tool that uses **ACTUAL APIs** to check for
 git clone https://github.com/himalhma-ship-timohammad/real-security-checker
 cd real-security-checker
 pip install -r requirements.txt
-python real_security_checker.py
+python3 network_security_checkr.py
